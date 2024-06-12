@@ -30,12 +30,12 @@ Screenshots :
 
 
 Project Demo URL -
-https://github.com/Mohitkasture/MKV-untique
+
 
 Project Demo Video URL –
 
 Github Repository Link -
-MKV-untique/README.md at main · Mohitkasture/MKV-untique (github.com)
+https://github.com/Mohitkasture/MKV-untique (github.com)
 
 Team member’s Contributions : 
 1.	Mohit Kasture : Azure Services, Co-ordination & leading 

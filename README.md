@@ -53,14 +53,19 @@ This project has been decided to reduce the problems in our University cafe . Th
 
 # Screenshot of Azure Services
 
- ### 1 Static Web App Service :
- ![Screenshot 2024-06-13 105216](https://github.com/Mohitkasture/MKV-untique/assets/171769134/2cf650e2-a967-4dea-a9b0-ad3c81dcfb0a)
+ ### 1. Resource Group :
+ ![Screenshot 2024-06-13 110826](https://github.com/Mohitkasture/MKV-untique/assets/171769134/de205da9-4257-46e1-8ba5-f27de63d1f4b)
+
  
- ### 2 Azure Bot :
+ ### 2. Static Web App Service :
+ ![Screenshot 2024-06-13 105216](https://github.com/Mohitkasture/MKV-untique/assets/171769134/2cf650e2-a967-4dea-a9b0-ad3c81dcfb0a)
+
+ ### 3.  Azure Bot :
  ![Screenshot 2024-06-13 105644](https://github.com/Mohitkasture/MKV-untique/assets/171769134/df7ee97d-db88-47e0-a405-8b42faf8d90a)
 
- ### 3 Resource Group :
- ![Screenshot 2024-06-13 110826](https://github.com/Mohitkasture/MKV-untique/assets/171769134/de205da9-4257-46e1-8ba5-f27de63d1f4b)
+### 4. Virtual Network :
+![Screenshot 2024-06-13 134013](https://github.com/Mohitkasture/MKV-untique/assets/171769134/b0078efd-f5e9-4193-8823-f3389ce60f51)
+
  
  # Screenshots of Project  :
  

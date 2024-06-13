@@ -26,7 +26,9 @@ This project has been decided to reduce the problems in our University cafe . Th
 # Technologies :-
 **Frontend :-**
     1. HTML
+    
     2. CSS
+    
     3. JAVASCRIPT
 
 
@@ -38,33 +40,37 @@ Virtual network
 Language AI
 Azure bot service 
 
-# Screenshots :-**
-**Intor Page**:-
- ![Screenshot 2024-06-12 123415](https://github.com/Mohitkasture/MKV-untique/assets/171769134/dc719e6f-7366-4cb9-8552-0fafc27c6772)
- 
+# Screenshots :-
+ # The Core Azure Sevices Used 
  **Service Page**:-
  ![Screenshot 2024-06-13 105216](https://github.com/Mohitkasture/MKV-untique/assets/171769134/2cf650e2-a967-4dea-a9b0-ad3c81dcfb0a)
-
- **Our Cafe Manu**:-
- ![Screenshot 2024-06-12 123429](https://github.com/Mohitkasture/MKV-untique/assets/171769134/bdbe3ad5-8728-4683-bd62-8d41d57ddef6)
  
  **Chatbot**:-
  ![Screenshot 2024-06-13 105644](https://github.com/Mohitkasture/MKV-untique/assets/171769134/df7ee97d-db88-47e0-a405-8b42faf8d90a)
 
- **About Page**:-
- ![Screenshot 2024-06-12 123456](https://github.com/Mohitkasture/MKV-untique/assets/171769134/ebfcb413-1125-463f-b044-3846f19d7e25)
-
- **Language**:-
+  **Language**:-
  ![Screenshot 2024-06-13 110121](https://github.com/Mohitkasture/MKV-untique/assets/171769134/7b6c4473-cbd6-4a05-8dce-9e6acfa9695e)
- 
- **Contact Page**:-
- ![Screenshot 2024-06-12 123512](https://github.com/Mohitkasture/MKV-untique/assets/171769134/937ee89c-a79b-4d2b-b7e3-3a53dad543ec)
 
  **Resource Group**:-
  ![Screenshot 2024-06-13 110826](https://github.com/Mohitkasture/MKV-untique/assets/171769134/de205da9-4257-46e1-8ba5-f27de63d1f4b)
+ 
+
+# Project Screenshots
+**Intro Page**:-
+ ![Screenshot 2024-06-12 123415](https://github.com/Mohitkasture/MKV-untique/assets/171769134/dc719e6f-7366-4cb9-8552-0fafc27c6772)
+ 
+ **Our Cafe Menu**:-
+ ![Screenshot 2024-06-12 123429](https://github.com/Mohitkasture/MKV-untique/assets/171769134/bdbe3ad5-8728-4683-bd62-8d41d57ddef6)
+ 
+ **About Page**:-
+ ![Screenshot 2024-06-12 123456](https://github.com/Mohitkasture/MKV-untique/assets/171769134/ebfcb413-1125-463f-b044-3846f19d7e25)
+
+ **Contact Page**:-
+ ![Screenshot 2024-06-12 123512](https://github.com/Mohitkasture/MKV-untique/assets/171769134/937ee89c-a79b-4d2b-b7e3-3a53dad543ec)
 
   **ChatBot Page**:-
   ![Screenshot 2024-06-12 141901](https://github.com/Mohitkasture/MKV-untique/assets/171769134/f38b4709-148f-4015-9f91-1b35eaa2cb00)
+  
 
   # Connectivity :-
   **1 MKV Antique Cafe**:-This represents the main website of coffee shop where People interact and access various services.

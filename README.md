@@ -41,7 +41,7 @@ Language AI
 Azure bot service 
 
 # Screenshots :-
- # The Core Azure Sevices Used 
+ # The Core Azure Services Used 
  **Service Page**:-
  ![Screenshot 2024-06-13 105216](https://github.com/Mohitkasture/MKV-untique/assets/171769134/2cf650e2-a967-4dea-a9b0-ad3c81dcfb0a)
  

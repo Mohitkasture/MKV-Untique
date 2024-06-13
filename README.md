@@ -54,32 +54,31 @@ Language AI
 
 Azure bot service 
 
-# Screenshots :-
- # The Core Azure Services Used 
- **Static Web App Service** :-
+# Screenshot of Azure Services
+
+ ### 1 Static Web App Service :-
  ![Screenshot 2024-06-13 105216](https://github.com/Mohitkasture/MKV-untique/assets/171769134/2cf650e2-a967-4dea-a9b0-ad3c81dcfb0a)
  
- **Azure Bot** :-
+ ### 2 Azure Bot :-
  ![Screenshot 2024-06-13 105644](https://github.com/Mohitkasture/MKV-untique/assets/171769134/df7ee97d-db88-47e0-a405-8b42faf8d90a)
 
- **Resource Group** :-
+ ### 3 Resource Group :-
  ![Screenshot 2024-06-13 110826](https://github.com/Mohitkasture/MKV-untique/assets/171769134/de205da9-4257-46e1-8ba5-f27de63d1f4b)
  
-
-# Project Screenshots :-
-**Intro Page** :-
+# Screenshots of Project  :-
+ ###  1 Intro Page :-
  ![Screenshot 2024-06-12 123415](https://github.com/Mohitkasture/MKV-untique/assets/171769134/dc719e6f-7366-4cb9-8552-0fafc27c6772)
  
- **Our Cafe Menu** :-
+ ### 2 Our Cafe Menu :-
  ![Screenshot 2024-06-12 123429](https://github.com/Mohitkasture/MKV-untique/assets/171769134/bdbe3ad5-8728-4683-bd62-8d41d57ddef6)
  
- **About Page** :-
+ ###  3 About Page :-
  ![Screenshot 2024-06-12 123456](https://github.com/Mohitkasture/MKV-untique/assets/171769134/ebfcb413-1125-463f-b044-3846f19d7e25)
 
- **Contact Page** :-
+ ###  4 Contact Page :-
  ![Screenshot 2024-06-12 123512](https://github.com/Mohitkasture/MKV-untique/assets/171769134/937ee89c-a79b-4d2b-b7e3-3a53dad543ec)
 
-  **ChatBot Page** :-
+  ### 5 ChatBot Page :-
   ![Screenshot 2024-06-12 141901](https://github.com/Mohitkasture/MKV-untique/assets/171769134/f38b4709-148f-4015-9f91-1b35eaa2cb00)
   
 

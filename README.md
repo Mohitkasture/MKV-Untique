@@ -1,11 +1,8 @@
-# Project Title :-
- MKV Antique Cafe
-
- # Project title :  
- MKV Antique cafe
+# Project title :  
+-**MKV Antique cafe**
 
 # Industry type :-
-Lifestyle
+-**Lifestyle**
 
 # Problem statement :-
 The coffee market is booming but there is a lack of unique and welcoming coffee shops in Algiers.
@@ -18,24 +15,23 @@ This project has been decided to reduce the problems in our University cafe . Th
 
 
 # URL link :-
-**Project Demo URL** :- https://mohitkasture.github.io/MKV-untique/
+**1 Project Demo URL** :- https://mohitkasture.github.io/MKV-untique/
 
-**Project Demo Video URL** :– https://youtu.be/FiUQ5zBWsew?si=QFnt57piLie8me6u
+**2 Project Demo Video URL** :– https://youtu.be/FiUQ5zBWsew?si=QFnt57piLie8me6u
 
-**Github Repository Link** :- https://github.com/Mohitkasture/MKV-untique (github.com)
+**3 Github Repository Link** :- https://github.com/Mohitkasture/MKV-untique (github.com)
 
-**Azure portal URl** :- https://jolly-bush-0b0c9ed0f.5.azurestaticapps.net
+**4 Azure portal URl** :- https://jolly-bush-0b0c9ed0f.5.azurestaticapps.net
 
 
 # Technologies :-
 
-    Frontend
-  
-    1. HTML
-    
-    2. CSS
-    
-    3. JAVASCRIPT
+**1. HTML**
+
+**2. CSS**
+
+**3. JAVASCRIPT**
+
 
 # Team member’s Contributions :- 
 1.	Mohit Kasture : Azure Services, Co-ordination & leading 
@@ -43,16 +39,13 @@ This project has been decided to reduce the problems in our University cafe . Th
 3.	Kiran Rajput     : Coding (HTML, CSS, JS) & UI Design
 
 
-# The Core Azure Services Used :-
-
 # Azure technologies used for project :-
-Static web App Service 
 
-Virtual network
+**1 Static web App Service**
 
-Language AI
+**2 Language AI**
 
-Azure bot service 
+**3 Azure bot service**
 
 # Screenshot of Azure Services
 
@@ -65,7 +58,7 @@ Azure bot service
  ### 3 Resource Group :-
  ![Screenshot 2024-06-13 110826](https://github.com/Mohitkasture/MKV-untique/assets/171769134/de205da9-4257-46e1-8ba5-f27de63d1f4b)
  
-# Screenshots of Project  :-
+ # Screenshots of Project  :-
  ###  1 Intro Page :-
  ![Screenshot 2024-06-12 123415](https://github.com/Mohitkasture/MKV-untique/assets/171769134/dc719e6f-7366-4cb9-8552-0fafc27c6772)
  
@@ -78,11 +71,11 @@ Azure bot service
  ###  4 Contact Page :-
  ![Screenshot 2024-06-12 123512](https://github.com/Mohitkasture/MKV-untique/assets/171769134/937ee89c-a79b-4d2b-b7e3-3a53dad543ec)
 
-  ### 5 ChatBot Page :-
+ ### 5 ChatBot Page :-
   ![Screenshot 2024-06-12 141901](https://github.com/Mohitkasture/MKV-untique/assets/171769134/f38b4709-148f-4015-9f91-1b35eaa2cb00)
   
 
-  # Connectivity :-
+ # Connectivity :-
   **1 MKV Antique Cafe**:-This represents the main website of coffee shop where People interact and access various services.
   
   **2 Azure Static Web App**:- The static web app service hosts the freontend of the wevsite serving static content like HTML, CSS, and JAVAScript files to users.

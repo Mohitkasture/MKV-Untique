@@ -88,9 +88,9 @@ Azure bot service
 2.	Vaishali Tiwari : https://github.com/vaishaliTiwarij
 3.	Kiran Rajput     : https://github.com/KiranRajput2003
 
-# Disclaimer
+# Disclaimer :-
 The project is we have strive to provide accurate intformation about out menu items, including ingredients and potential allergens . However we cannot guarantee the absence of cross contamination or the complete accuracy of nutritional information
 
-# Contact:-
+# Contact :-
 **Email**:-mkymohitkumaryadav0@gmail.com
 

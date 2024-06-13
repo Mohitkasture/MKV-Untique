@@ -24,7 +24,9 @@ This project has been decided to reduce the problems in our University cafe . Th
 
 
 # Technologies :-
-**Frontend :-**
+
+    Frontend
+  
     1. HTML
     
     2. CSS

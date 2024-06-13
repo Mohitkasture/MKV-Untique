@@ -92,5 +92,5 @@ Azure bot service
 The project is we have strive to provide accurate intformation about out menu items, including ingredients and potential allergens . However we cannot guarantee the absence of cross contamination or the complete accuracy of nutritional information
 
 # Contact:-
-**Email:-**mkymohitkumaryadav0@gmail.com
+**Email**:-mkymohitkumaryadav0@gmail.com
 

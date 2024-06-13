@@ -14,13 +14,13 @@ This project has been decided to reduce the problems in our University cafe . Th
 
 
 # URL link :-
-**Project Demo URL** :-
-https://mohitkasture.github.io/MKV-untique/
+**Project Demo URL** :- https://mohitkasture.github.io/MKV-untique/
 
 **Project Demo Video URL** :– https://youtu.be/FiUQ5zBWsew?si=QFnt57piLie8me6u
 
-**Github Repository Link** :-
-https://github.com/Mohitkasture/MKV-untique (github.com)
+**Github Repository Link** :- https://github.com/Mohitkasture/MKV-untique (github.com)
+
+**Azure portal URl** :- https://jolly-bush-0b0c9ed0f.5.azurestaticapps.net
 
 
 # Technologies :-
